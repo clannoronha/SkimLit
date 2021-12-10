@@ -17,7 +17,7 @@ The Model categorizes the Abstracts of the Pubmed Articles into the following
 
 
 <a href="https://github.com/clannoronha/SkimLit">
-  <img src="img/Skimlit_img.png" alt="Logo" width="500" height="500">
+  <img src="img/Skimlit_img.png" alt="Logo">
 </a>
 
 
