@@ -6,6 +6,10 @@ The paper we are replicating (the source of the dataset that we'll be using) is 
 
 If you want to find the ground truth for this notebook (with lots of diagrams and text annotations) see the GitHib: https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb
 
+<a href="https://github.com/clannoronha/SkimLit">
+  <img src="img/Skimlit_img.png" alt="Logo" width="430" height="100">
+</a>
+
 
 ## Acknowledgements
 * [Daniel Bourke's version](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb)
