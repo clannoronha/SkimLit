@@ -1,4 +1,6 @@
-# SkimLit
+
+<H1 align="center"> SkimLit </H1>
+
 
 The purpose of this notebook is to build an NLP model to make reading medical abstracts easier.
 
@@ -17,18 +19,17 @@ The Model categorizes the Abstracts of the Pubmed Articles into the following
 
 
 <a href="https://github.com/clannoronha/SkimLit">
-  <img src="img/Skimlit_img.png" alt="Logo" width="430" height="100">
+  <img src="img/Skimlit_img.png" alt="Logo">
 </a>
-
-
-Below is the Architecture from which this model was built with the  help of :[Neural Networks for Joint Sentence Classification in Medical Paper Abstracts](https://arxiv.org/pdf/1612.05251.pdf)
-
-<a href="https://github.com/clannoronha/SkimLit">
-  <img src="img/Model Architecture.png" alt="Logo" width="430" height="100">
-</a>
-
 
 ## Building a tribrid embedding model
+
+Below is the Architecture from which this model was built with the  help of :[Neural Networks for Joint Sentence Classification in Medical Paper Abstracts](https://arxiv.org/pdf/1612.05251.pdf)
+<p align="center">
+<a href="https://github.com/clannoronha/SkimLit">
+  <img src="img/Model Architecture.PNG" alt="Logo">
+</a>
+</p>
 
 1. Create a token-level model (Passes tokenized sentences to a Universal Setence Encoder)
 2. Create a character-level model (tokenizes characters and passes it through an embedding layer as well as a Bidirectional LSTM)
