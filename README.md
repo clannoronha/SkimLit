@@ -21,9 +21,7 @@ The Model categorizes the Abstracts of the Pubmed Articles into the following
 </a>
 
 
-Below is the Architecture from which this model was built'
-[Neural Networks for Joint Sentence Classification
-in Medical Paper Abstracts](https://arxiv.org/pdf/1612.05251.pdf)
+Below is the Architecture from which this model was built with the  help of :[Neural Networks for Joint Sentence Classification in Medical Paper Abstracts](https://arxiv.org/pdf/1612.05251.pdf)
 
 <a href="https://github.com/clannoronha/SkimLit">
   <img src="img/Model Architecture.png" alt="Logo" width="430" height="100">
